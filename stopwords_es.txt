@@ -122,6 +122,7 @@ cuántos
 cómo
 d
 da
+do
 dado
 dan
 dar
@@ -451,6 +452,7 @@ otras
 otro
 otros
 p
+pa
 pais
 para
 parece
@@ -735,3 +737,10 @@ z
 últimas
 último
 últimos
+facultad
+universidad
+chile
+estudiante
+estudiantes
+cosa
+hola
